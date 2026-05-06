@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm AhmadReza Khoshdeli
 
-<!--
-**KevinMittenik/KevinMittenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building my skills for real-world projects
+- 🌱 I’m currently learning PHP, Three.js, and React
+- 🤔 I’m looking for help with advanced React patterns
+- ⚡ Fun fact: I’m from Iran 🇮🇷, passionate about programming, and love turning ideas into real digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming languages I know
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## 📚 I’m currently learning
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+
+---
+
+⭐ *I love learning, building, and growing step by step. Let's connect and make something useful.*
