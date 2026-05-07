@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on building my skills for real-world projects
 - 🌱 I’m currently learning PHP, Three.js, and React
-- 🤔 I’m looking for help with advanced React patterns
 - ⚡ Fun fact: I’m from Iran 🇮🇷, passionate about programming, and love turning ideas into real digital products.
 - 🧑‍💻 I’m 13 years old
 
